@@ -157,6 +157,7 @@ int main() {
     q1.disp();
 }
 ~~~
+## OUTPUT 2:
 ```
 PS C:\Users\Sai\Desktop\CDS\construcotrs> cd "c:\Users\Sai\Desktop\CDS\construcotrs\" ; if ($?) { g++ EXP19_2.cpp -o EXP19_2 } ; if ($?) { .\EXP19_2 }
 Queue elements: 4 8 3 
